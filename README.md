@@ -132,6 +132,6 @@ For questions or support, feel free to reach out:
 
 ---
 ## The link of the gradio admin page 
-https://5817a8c8a8745a7527.gradio.live/
+https://9870080d53fcde1d95.gradio.live/
 
 Enjoy using the Dish Prediction App for making the university life smarter 
